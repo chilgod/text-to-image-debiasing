@@ -1,5 +1,7 @@
 # text-to-image-debiasing
 
+## ⚠️这是孟德宇老师机器学习课程的期末报告⚠️
+
 文生图去偏-元学习
 
 meta_unet.py是元学习版本的UNet2DConditionModel，继承MetaModule
